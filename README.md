@@ -25,6 +25,6 @@ https://namankothari5.github.io/Road-Accidents-IGT/
 
 ## Maps
 
-- Road Accidents due to bad weather](https://github.com/NamanKothari5/Road-Accidents-IGT/blob/1cbae5c0b2f6b602134022a05dbebad248c35881/Total_Accidents_Weather.png)
+- [Road Accidents due to bad weather](https://github.com/NamanKothari5/Road-Accidents-IGT/blob/1cbae5c0b2f6b602134022a05dbebad248c35881/Total_Accidents_Weather.png)
 - [Road Accidents due to bad roads](https://github.com/NamanKothari5/Road-Accidents-IGT/blob/1cbae5c0b2f6b602134022a05dbebad248c35881/Total_Accidents_Weather.png)
 
